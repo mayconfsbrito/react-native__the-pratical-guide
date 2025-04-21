@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React Native
+ios/
+android/
+*.log
+*.lock
+*.keystore
+*.iml
+
+# macOS
+.DS_Store
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Expo
+.expo/
+.expo-shared/
+
+# Build artifacts
+build/
+dist/
+*.bundle
+
+# Miscellaneous
+.env
+*.swp
+*.tmp
